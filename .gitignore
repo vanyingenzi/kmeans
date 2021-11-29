@@ -1,0 +1,9 @@
+*.out
+*.o
+src/*.o
+tests/*.o
+massif.out.*
+.vscode
+kmeans
+*.csv
+output_files/*.csv
